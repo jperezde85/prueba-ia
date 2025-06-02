@@ -1,0 +1,1 @@
+export const Progress = ({ value }) => <div style={{ background: '#ccc', borderRadius: '4px' }}><div style={{ width: `${value}%`, background: 'blue', height: '10px', borderRadius: '4px' }} /></div>;
