@@ -1,3 +1,4 @@
+'use client';
 
 import { useState } from 'react';
 export const Tabs = ({ defaultValue, children }) => <div>{children}</div>;
